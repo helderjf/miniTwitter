@@ -1,0 +1,21 @@
+{
+  "name": "twiterClone",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "babel-runtime": "^6.23.0",
+    "bcrypt": "^1.0.2",
+    "meteor-node-stubs": "~0.2.4",
+    "moment": "^2.18.0",
+    "react": "^15.4.2",
+    "react-addons-pure-render-mixin": "^15.4.2",
+    "react-autoupdate-time": "^1.0.5",
+    "react-dom": "^15.4.2",
+    "react-livestamp": "0.0.6",
+    "react-redux": "^5.0.3",
+    "redux": "^3.6.0",
+    "redux-logger": "^2.8.2"
+  }
+}
